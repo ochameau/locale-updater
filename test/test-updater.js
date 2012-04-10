@@ -48,7 +48,7 @@ exports.testReadProperties = function (test) {
 
   let expected = {
     translated: "updated value",
-    untranslated: "new value"
+    untranslated: "new vâlüe"
   };
   getTmpFileForData("xx_YY.properties", function (file) {
     let properties = updater.readPropertiesFile(file);
@@ -147,7 +147,7 @@ exports.testUpdatedLocale = function(test) {
       // Update a key
       translated: "updated value",
       // Translate a new one, previously untranslated
-      untranslated: "new value"
+      untranslated: "new vâlüe"
     }
   };
   getTmpFileForData("unit-test-addon.xpi", function (tmpFile) {
