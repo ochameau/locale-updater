@@ -1,7 +1,6 @@
-
 == Locale-updater ==
 
-1/ Install this addon (an XPI is available in downloads page),
+1/ Install this addon: https://github.com/downloads/ochameau/locale-updater/locale-updater.xpi,
 2/ Open about:addons,
 3/ Click on "Update l10n" button next to the Jetpack/Addon-SDK addon you want to translate,
 4/ Select one or multiple .properties file(s) you want to test,
