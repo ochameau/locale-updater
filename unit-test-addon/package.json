@@ -1,0 +1,6 @@
+{
+  "id": "unit-test-addon",
+  "directories": {
+    "lib": "."
+  }
+}

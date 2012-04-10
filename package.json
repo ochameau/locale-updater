@@ -1,0 +1,9 @@
+{
+    "name": "locale-updater", 
+    "license": "MPL 2.0", 
+    "author": "Alexandre Poirot", 
+    "version": "0.1", 
+    "fullName": "Locale updater", 
+    "id": "locale-updater", 
+    "description": "An addon to test new/updated localization files on Jetpack/Addon-SDK addons"
+}
